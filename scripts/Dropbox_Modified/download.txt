@@ -1,8 +1,0 @@
-I am Vamshi Priya Voruganti.
-My father name is Sravan Kumar.
-My mother name is Uma Rani.
-I have two younger sisters.
-Between them old one name is Lakshmi Priya and another sister name is Sneha Priya.
-At present I am working on Python
-I love to work on python.
-
